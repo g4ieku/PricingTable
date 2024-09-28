@@ -121,3 +121,7 @@
    width: 30px;
    transition: all 0.2s ease-in-out;
 }
+
+.price_toggler_container .price_toggler.active::before {
+   left: 113px;
+}
